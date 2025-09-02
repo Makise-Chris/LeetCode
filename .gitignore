@@ -9,3 +9,6 @@ longest_substring_without_repeating_characters
 # Object and output files
 *.o
 *.out
+
+# VSCode specific
+.vscode/
