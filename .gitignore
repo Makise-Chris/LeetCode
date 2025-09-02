@@ -4,7 +4,6 @@ integer_to_english_words
 longest_palindrome_substring
 longest_palindrome_substring_dp
 longest_substring_without_repeating_characters
-.vscode/
 
 # Object and output files
 *.o
